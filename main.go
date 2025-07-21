@@ -1,5 +1,5 @@
 package main
 
-func main(): string {
+func main() string {
 	return "Hello world"
 }
