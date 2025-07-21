@@ -1,5 +1,5 @@
 package abc
 
-func test() string {
+func Test() string {
 	return "Hello package"
 }
